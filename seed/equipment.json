@@ -1,0 +1,161 @@
+[
+  {
+    "facilityId": "ws1", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성1 전동펌프 6호기", "model": "입축사류펌프 1,750HP × 600㎥/min",
+    "vendor": "백석기업", "installDate": "2005-12-01", "lifeYears": 25,
+    "lastMaintDate": "2022-07-20", "status": "good", "remark": "2022년 오버홀 완료(백석기업)"
+  },
+  {
+    "facilityId": "ws1", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성1 전동펌프 13호기", "model": "입축사류펌프 1,750HP × 600㎥/min",
+    "vendor": "백석기업", "installDate": "2005-12-01", "lifeYears": 25,
+    "lastMaintDate": "2022-07-20", "status": "good", "remark": "2022년 오버홀 완료"
+  },
+  {
+    "facilityId": "ws2", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성2 전동펌프 1호기", "model": "입축사류펌프 1,400HP × 400㎥/min",
+    "vendor": "동도이엔지", "installDate": "1992-06-01", "lifeYears": 25,
+    "lastMaintDate": "2021-12-11", "status": "good", "remark": "2021년 오버홀"
+  },
+  {
+    "facilityId": "ws2", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성2 전동펌프 4호기", "model": "입축사류펌프 1,400HP × 400㎥/min",
+    "vendor": "동위", "installDate": "1992-06-01", "lifeYears": 25,
+    "lastMaintDate": "2021-07-15", "status": "good", "remark": "2021년 오버홀"
+  },
+  {
+    "facilityId": "ws2", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성2 전동펌프 5호기", "model": "입축사류펌프 1,400HP × 400㎥/min",
+    "vendor": "백석기업", "installDate": "1992-06-01", "lifeYears": 25,
+    "lastMaintDate": "2022-07-20", "status": "good", "remark": "2022년 오버홀"
+  },
+  {
+    "facilityId": "ws2", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성2 전동펌프 10호기", "model": "입축사류펌프 1,400HP × 400㎥/min",
+    "vendor": "동위", "installDate": "1992-06-01", "lifeYears": 25,
+    "lastMaintDate": "2021-07-15", "status": "good", "remark": "2021년 오버홀"
+  },
+  {
+    "facilityId": "ws3", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성3 전동펌프 1호기", "model": "사류펌프 750HP",
+    "vendor": "", "installDate": "1972-10-01", "lifeYears": 30,
+    "lastMaintDate": null, "status": "bad", "remark": "내용연수 경과, 정밀안전점검 결과 반영"
+  },
+  {
+    "facilityId": "ws3", "category": "펌프", "subcategory": "펌프 오버홀",
+    "name": "월성3 전동펌프 5호기", "model": "사류펌프 300HP",
+    "vendor": "", "installDate": "1972-10-01", "lifeYears": 30,
+    "lastMaintDate": null, "status": "bad", "remark": "내용연수 경과"
+  },
+  {
+    "facilityId": "ws1", "category": "전기", "subcategory": "수·배전설비",
+    "name": "월성1 수배전반 (신설)", "model": "22.9KV/6.6KV 외 수배전반 일체",
+    "vendor": "유영전기", "installDate": "2023-06-10", "lifeYears": 20,
+    "lastMaintDate": "2023-06-10", "status": "good",
+    "remark": "2022~2023년 개체공사, 제작·설치 10.2억원 규모"
+  },
+  {
+    "facilityId": "ws1", "category": "전기", "subcategory": "수·배전설비",
+    "name": "월성1 154KV 수전설비", "model": "특고압 수전",
+    "vendor": "한전KPS", "installDate": "2005-12-01", "lifeYears": 30,
+    "lastMaintDate": "2024-11-14", "status": "good",
+    "remark": "매년 애자청소·불량검출, 2024년 정비 완료"
+  },
+  {
+    "facilityId": "ws2", "category": "전기", "subcategory": "축전지",
+    "name": "월성2 UPS 축전지 (1층)", "model": "12V ESP 200AH × 20EA",
+    "vendor": "", "installDate": "2025-06-01", "lifeYears": 8,
+    "lastMaintDate": "2025-06-01", "status": "good",
+    "remark": "2025년 교체 완료. 차기 2033~2034년 예상"
+  },
+  {
+    "facilityId": "ws2", "category": "전기", "subcategory": "축전지",
+    "name": "월성2 UPS 축전지 (2층)", "model": "30AH × 8EA",
+    "vendor": "", "installDate": "2025-06-01", "lifeYears": 8,
+    "lastMaintDate": "2025-06-01", "status": "good",
+    "remark": "2025년 교체 완료"
+  },
+  {
+    "facilityId": "ws2", "category": "전기", "subcategory": "축전지",
+    "name": "월성2 변전실 축전지", "model": "7AH × 8EA",
+    "vendor": "", "installDate": "2025-06-01", "lifeYears": 8,
+    "lastMaintDate": "2025-06-01", "status": "good",
+    "remark": "2025년 교체 완료"
+  },
+  {
+    "facilityId": "ws2", "category": "전기", "subcategory": "비상발전기",
+    "name": "월성2 비상발전기", "model": "",
+    "vendor": "보국전기공업", "installDate": "2010-01-01", "lifeYears": 20,
+    "lastMaintDate": "2023-06-07", "status": "good", "remark": "2023년 소모품 교체"
+  },
+  {
+    "facilityId": "ws1", "category": "전기", "subcategory": "비상발전기",
+    "name": "월성1 비상발전기 3호기", "model": "",
+    "vendor": "보국전기공업", "installDate": "2005-12-01", "lifeYears": 20,
+    "lastMaintDate": "2024-08-08", "status": "good", "remark": "2024년 수선"
+  },
+  {
+    "facilityId": "ws1", "category": "제진기", "subcategory": "제진기",
+    "name": "월성1 로터리 제진기 (13대)", "model": "로터리식",
+    "vendor": "아이엔텍", "installDate": "2005-12-01", "lifeYears": 15,
+    "lastMaintDate": "2026-02-19", "status": "good",
+    "remark": "2026년 레이크 제작·구매·설치"
+  },
+  {
+    "facilityId": "ws2", "category": "제진기", "subcategory": "제진기",
+    "name": "월성2 로터리 제진기 (12대)", "model": "로터리식",
+    "vendor": "", "installDate": "1992-06-01", "lifeYears": 20,
+    "lastMaintDate": null, "status": "warn", "remark": "노후, 점검 필요"
+  },
+  {
+    "facilityId": "ws3", "category": "제진기", "subcategory": "제진기",
+    "name": "월성3 유압 제진기 (2대)", "model": "유압식",
+    "vendor": "", "installDate": "1972-10-01", "lifeYears": 20,
+    "lastMaintDate": null, "status": "bad", "remark": "내용연수 초과"
+  },
+  {
+    "facilityId": "ws1", "category": "제진기", "subcategory": "컨베이어(협잡물)",
+    "name": "월성1 협잡물 컨베이어", "model": "W1.2 × L17m, ∠22°",
+    "vendor": "신정기공", "installDate": "2022-11-17", "lifeYears": 10,
+    "lastMaintDate": "2026-04-16", "status": "good",
+    "remark": "2022년 신설, 2026년 벨트·스위치 수선"
+  },
+  {
+    "facilityId": "ws2", "category": "기계", "subcategory": "크레인",
+    "name": "월성2 천장형 크레인", "model": "",
+    "vendor": "반도고벨크레인스", "installDate": "1992-06-01", "lifeYears": 30,
+    "lastMaintDate": "2021-04-04", "status": "warn", "remark": "2020·2021년 수선"
+  },
+  {
+    "facilityId": "ws1", "category": "기계", "subcategory": "고무보/기계실",
+    "name": "대명유수지 고무보", "model": "",
+    "vendor": "광희엔지니어링", "installDate": "2025-10-29", "lifeYears": 20,
+    "lastMaintDate": "2025-10-29", "status": "good",
+    "remark": "2025년 신규 제작·설치 (2.4억원)"
+  },
+  {
+    "facilityId": "ws1", "category": "통신", "subcategory": "CCTV",
+    "name": "월성 CCTV 시스템", "model": "",
+    "vendor": "상하정보기술", "installDate": "2020-08-16", "lifeYears": 8,
+    "lastMaintDate": "2020-08-16", "status": "good",
+    "remark": "2020년 개체 완료 (8,860만원)"
+  },
+  {
+    "facilityId": "ws1", "category": "기계", "subcategory": "수문권양기",
+    "name": "월성 수문권양기 (2개소)", "model": "",
+    "vendor": "현승기공", "installDate": "2005-12-01", "lifeYears": 20,
+    "lastMaintDate": "2024-06-05", "status": "good", "remark": "2024년 수리"
+  },
+  {
+    "facilityId": "ws1", "category": "기계", "subcategory": "소방설비",
+    "name": "월성·창리 소방시설물", "model": "",
+    "vendor": "성광방재", "installDate": "2005-12-01", "lifeYears": 15,
+    "lastMaintDate": "2020-05-22", "status": "warn", "remark": "정기점검 필요"
+  },
+  {
+    "facilityId": "ws2", "category": "전기", "subcategory": "기동반",
+    "name": "월성2 4호기 기동반", "model": "",
+    "vendor": "유영전기", "installDate": "2024-07-31", "lifeYears": 15,
+    "lastMaintDate": "2024-07-31", "status": "good", "remark": "2024년 제작·설치"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "category": "전기",
+    "subcategory": "수·배전설비",
+    "item": "154KV 수전설비 애자청소·불량애자 검출",
+    "cycleMonths": 12,
+    "basis": "한전KPS 기별점검, 매년 시행 이력(2020~2024)"
+  },
+  {
+    "category": "기타",
+    "subcategory": "안전점검 용역",
+    "item": "정밀안전점검",
+    "cycleMonths": 24,
+    "basis": "시설물의 안전 및 유지관리에 관한 특별법 (1종시설물)"
+  },
+  {
+    "category": "펌프",
+    "subcategory": "펌프 오일",
+    "item": "전동펌프 오일 교체",
+    "cycleMonths": 24,
+    "basis": "유압베어링유·감속기오일, 제조사 권장"
+  },
+  {
+    "category": "펌프",
+    "subcategory": "펌프 부속품",
+    "item": "전동펌프 그랜드패킹 교체",
+    "cycleMonths": 18,
+    "basis": "누수 발생 시 즉시 교체"
+  },
+  {
+    "category": "펌프",
+    "subcategory": "펌프 오버홀",
+    "item": "전동펌프 오버홀",
+    "cycleMonths": 72,
+    "basis": "5~7년 주기, 호기별 운전시간 고려"
+  },
+  {
+    "category": "전기",
+    "subcategory": "축전지",
+    "item": "UPS 축전지 교체",
+    "cycleMonths": 96,
+    "basis": "ESP 200AH 기준 7~8년. 월성2 2025년 교체 → 2033년경 차기"
+  },
+  {
+    "category": "전기",
+    "subcategory": "조명/환기",
+    "item": "LED 조명·환기휀",
+    "cycleMonths": 120,
+    "basis": "약 10년, 기능 저하 시 교체"
+  },
+  {
+    "category": "통신",
+    "subcategory": "CCTV",
+    "item": "CCTV 장비 개체",
+    "cycleMonths": 96,
+    "basis": "8~10년 주기 교체"
+  },
+  {
+    "category": "기계",
+    "subcategory": "고무보/기계실",
+    "item": "고무보 교체",
+    "cycleMonths": 240,
+    "basis": "15~20년 주기"
+  },
+  {
+    "category": "기계",
+    "subcategory": "소방설비",
+    "item": "소방시설 점검",
+    "cycleMonths": 6,
+    "basis": "소방시설법 반기 정기점검"
+  },
+  {
+    "category": "전기",
+    "subcategory": "비상발전기",
+    "item": "비상발전기 소모품 교체",
+    "cycleMonths": 36,
+    "basis": "3년 주기, 필터·벨트·윤활유 교체"
+  },
+  {
+    "category": "제진기",
+    "subcategory": "제진기",
+    "item": "제진기 레이크 점검·교체",
+    "cycleMonths": 60,
+    "basis": "5년 주기, 마모도 확인"
+  },
+  {
+    "category": "제진기",
+    "subcategory": "컨베이어(협잡물)",
+    "item": "협잡물 컨베이어 벨트·가이드 교체",
+    "cycleMonths": 36,
+    "basis": "벨트 마모 시 교체"
+  },
+  {
+    "category": "기계",
+    "subcategory": "크레인",
+    "item": "천장형 크레인 정기점검",
+    "cycleMonths": 12,
+    "basis": "산업안전보건법 정기검사"
+  },
+  {
+    "category": "전기",
+    "subcategory": "보호계전/개폐기",
+    "item": "복합계전기 정정치 점검",
+    "cycleMonths": 24,
+    "basis": "보호계전기 동작 상태 확인"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ws1",
+    "name": "월성 제1빗물펌프장",
+    "kind": "pump",
+    "installYear": 2005,
+    "installMonth": 12,
+    "location": "대구광역시 달서구 달서대로 241-13",
+    "power": "30,000㎾",
+    "pumpCount": 13,
+    "pumpCapacity": "22,750㎥/min",
+    "pumpSpec": "1,750HP",
+    "screen": "13대(로타리)",
+    "note": "2회선 수전, 154KV 수전설비 보유"
+  },
+  {
+    "id": "ws2",
+    "name": "월성 제2빗물펌프장",
+    "kind": "pump",
+    "installYear": 1992,
+    "installMonth": 6,
+    "location": "대구광역시 달서구 달서대로 241-13",
+    "power": "4,000㎾",
+    "pumpCount": 12,
+    "pumpCapacity": "16,800㎥/min",
+    "pumpSpec": "1,400HP",
+    "screen": "12대(로타리)",
+    "note": "전동펌프 3·9호기 오버홀 이력 미확인"
+  },
+  {
+    "id": "ws3",
+    "name": "월성 제3빗물펌프장",
+    "kind": "pump",
+    "installYear": 1972,
+    "installMonth": null,
+    "location": "대구광역시 달서구 달서대로 241-13",
+    "power": "-",
+    "pumpCount": 8,
+    "pumpCapacity": "3,750㎥/min",
+    "pumpSpec": "750HP×3, 300HP×5",
+    "screen": "2대(유압)",
+    "note": "노후화 심화, 중점관리 대상"
+  },
+  {
+    "id": "ws-daemyeong",
+    "name": "대명유수지",
+    "kind": "reservoir",
+    "installYear": 2025,
+    "installMonth": 10,
+    "location": "대구광역시 달서구 대천동 784-1",
+    "power": null,
+    "pumpCount": null,
+    "pumpCapacity": null,
+    "pumpSpec": null,
+    "screen": null,
+    "note": "2025년 고무보·제어반 신설"
+  },
+  {
+    "id": "ws-common",
+    "name": "월성공통 (공통설비)",
+    "kind": "common",
+    "installYear": null,
+    "installMonth": null,
+    "location": "월성빗물펌프장 전체 공통",
+    "power": null,
+    "pumpCount": null,
+    "pumpCapacity": null,
+    "pumpSpec": null,
+    "screen": null,
+    "note": "154KV 수전설비, 복합계전기, UPS 축전지 등 공통설비"
+  }
+]

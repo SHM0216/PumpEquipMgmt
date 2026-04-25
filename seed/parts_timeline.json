@@ -1,0 +1,528 @@
+[
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 6호기",
+    "events": {
+      "2022": "●",
+      "2027": "◐"
+    },
+    "id": "tl-001"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 13호기",
+    "events": {
+      "2022": "●",
+      "2027": "◐"
+    },
+    "id": "tl-002"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 그랜드패킹",
+    "events": {
+      "2021": "●",
+      "2027": "★"
+    },
+    "id": "tl-003"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 오일",
+    "events": {
+      "2021": "●",
+      "2022": "●",
+      "2027": "★"
+    },
+    "id": "tl-004"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 온도측정 디지털표시계",
+    "events": {
+      "2021": "●"
+    },
+    "id": "tl-005"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "제진기",
+    "partName": "협잡물 운반 컨베이어",
+    "events": {
+      "2022": "●",
+      "2023": "●"
+    },
+    "id": "tl-006"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "제진기",
+    "partName": "컨베이어 소모품",
+    "events": {
+      "2026": "●",
+      "2028": "◐",
+      "2029": "◐"
+    },
+    "id": "tl-007"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "전기",
+    "partName": "수배전반 (대규모 개체공사)",
+    "events": {
+      "2022": "●"
+    },
+    "id": "tl-008"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "전기",
+    "partName": "전동기 고압케이블",
+    "events": {
+      "2023": "●",
+      "2028": "◐",
+      "2030": "◐"
+    },
+    "id": "tl-009"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "전기",
+    "partName": "펌프실 벽부형 LED 조명",
+    "events": {
+      "2021": "●",
+      "2024": "◐"
+    },
+    "id": "tl-010"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "전기",
+    "partName": "LED 40W 레이스웨이등",
+    "events": {
+      "2024": "●",
+      "2030": "◐"
+    },
+    "id": "tl-011"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "전기",
+    "partName": "초음파 수위계 (토출수조)",
+    "events": {
+      "2021": "●",
+      "2027": "★"
+    },
+    "id": "tl-012"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "통신",
+    "partName": "CCTV (개체 대상)",
+    "events": {
+      "2020": "●",
+      "2030": "◐"
+    },
+    "id": "tl-013"
+  },
+  {
+    "facilityCode": "ws1",
+    "facilityLabel": "월성1",
+    "equipmentGroup": "통신",
+    "partName": "통합감시시스템",
+    "events": {
+      "2022": "●",
+      "2030": "◐"
+    },
+    "id": "tl-014"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 1호기",
+    "events": {
+      "2021": "●",
+      "2026": "★"
+    },
+    "id": "tl-015"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 2호기",
+    "events": {
+      "2020": "●",
+      "2023": "●",
+      "2028": "◐"
+    },
+    "id": "tl-016"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 3호기",
+    "events": {},
+    "id": "tl-017"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 4호기",
+    "events": {
+      "2021": "●",
+      "2026": "★"
+    },
+    "id": "tl-018"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 5·7·8·11·12호기",
+    "events": {
+      "2022": "●",
+      "2027": "◐"
+    },
+    "id": "tl-019"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 6호기",
+    "events": {
+      "2020": "●"
+    },
+    "id": "tl-020"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 9호기",
+    "events": {},
+    "id": "tl-021"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 10호기",
+    "events": {
+      "2021": "●",
+      "2026": "★"
+    },
+    "id": "tl-022"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 그랜드패킹·압력게이지",
+    "events": {
+      "2020": "●",
+      "2027": "★"
+    },
+    "id": "tl-023"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "펌프 기초부",
+    "events": {
+      "2021": "●"
+    },
+    "id": "tl-024"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "펌프",
+    "partName": "전동펌프 오일",
+    "events": {
+      "2021": "●",
+      "2022": "●",
+      "2027": "★"
+    },
+    "id": "tl-025"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "전기",
+    "partName": "4호기 기동반",
+    "events": {
+      "2024": "●",
+      "2029": "◐"
+    },
+    "id": "tl-026"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "전기",
+    "partName": "외수위계",
+    "events": {
+      "2021": "●",
+      "2026": "★"
+    },
+    "id": "tl-027"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "전기",
+    "partName": "비상발전기 3호기",
+    "events": {
+      "2023": "●",
+      "2024": "●",
+      "2027": "★"
+    },
+    "id": "tl-028"
+  },
+  {
+    "facilityCode": "ws2",
+    "facilityLabel": "월성2",
+    "equipmentGroup": "전기",
+    "partName": "LED 30W 투광등 (펌프장 신설)",
+    "events": {
+      "2024": "●",
+      "2030": "◐"
+    },
+    "id": "tl-029"
+  },
+  {
+    "facilityCode": "ws3",
+    "facilityLabel": "월성3",
+    "equipmentGroup": "펌프",
+    "partName": "진공펌프",
+    "events": {
+      "2025": "●",
+      "2027": "◐",
+      "2028": "◐"
+    },
+    "id": "tl-030"
+  },
+  {
+    "facilityCode": "ws3",
+    "facilityLabel": "월성3",
+    "equipmentGroup": "전기",
+    "partName": "수배전설비 및 전기시설물",
+    "events": {
+      "2020": "●"
+    },
+    "id": "tl-031"
+  },
+  {
+    "facilityCode": "ws3",
+    "facilityLabel": "월성3",
+    "equipmentGroup": "전기",
+    "partName": "수배전반 (계기용 변류기·부하개폐기)",
+    "events": {
+      "2021": "●"
+    },
+    "id": "tl-032"
+  },
+  {
+    "facilityCode": "ws3",
+    "facilityLabel": "월성3",
+    "equipmentGroup": "전기",
+    "partName": "옥외 특고압반 LBS",
+    "events": {
+      "2023": "●"
+    },
+    "id": "tl-033"
+  },
+  {
+    "facilityCode": "ws3",
+    "facilityLabel": "월성3",
+    "equipmentGroup": "전기",
+    "partName": "펌프실 벽부형 LED 조명",
+    "events": {
+      "2021": "●",
+      "2026": "★",
+      "2027": "★"
+    },
+    "id": "tl-034"
+  },
+  {
+    "facilityCode": "ws-daemyeong",
+    "facilityLabel": "대명유수지",
+    "equipmentGroup": "전기",
+    "partName": "고무보 제어반",
+    "events": {
+      "2025": "●",
+      "2030": "◐"
+    },
+    "id": "tl-035"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "제진기",
+    "partName": "제진기 레이크",
+    "events": {
+      "2026": "●"
+    },
+    "id": "tl-036"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "제진기",
+    "partName": "협잡물 암롤박스",
+    "events": {
+      "2022": "●",
+      "2026": "◐",
+      "2027": "◐"
+    },
+    "id": "tl-037"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "154KV 수전설비 (애자·수전선로)",
+    "events": {
+      "2020": "●",
+      "2021": "●",
+      "2023": "●",
+      "2024": "●",
+      "2025": "●",
+      "2027": "◐"
+    },
+    "id": "tl-038"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "수전설비 메인변압기",
+    "events": {
+      "2020": "●"
+    },
+    "id": "tl-039"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "✓ UPS 축전지 (2016/17 설치분)",
+    "events": {
+      "2020": "●",
+      "2025": "●"
+    },
+    "id": "tl-040"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "복합계전기 (GIPAM-2000FI/3000FI)",
+    "events": {
+      "2020": "●",
+      "2021": "●",
+      "2027": "★"
+    },
+    "id": "tl-041"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "ALTS 조작용 배터리",
+    "events": {
+      "2021": "●",
+      "2027": "★"
+    },
+    "id": "tl-042"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "VCS 개폐기",
+    "events": {
+      "2022": "●"
+    },
+    "id": "tl-043"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "조명설비 (월성 외 8개소)",
+    "events": {
+      "2020": "●",
+      "2026": "◐",
+      "2027": "◐"
+    },
+    "id": "tl-044"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "집수정 수위계 변환기",
+    "events": {
+      "2020": "●",
+      "2025": "★"
+    },
+    "id": "tl-045"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "월성교 교통신호등 1차전원",
+    "events": {
+      "2025": "●"
+    },
+    "id": "tl-046"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "전기",
+    "partName": "냉방기 전기공사",
+    "events": {
+      "2026": "●"
+    },
+    "id": "tl-047"
+  },
+  {
+    "facilityCode": "ws-common",
+    "facilityLabel": "월성공통",
+    "equipmentGroup": "통신",
+    "partName": "영상정보처리 시스템",
+    "events": {
+      "2022": "●",
+      "2026": "◐",
+      "2027": "◐"
+    },
+    "id": "tl-048"
+  }
+]
