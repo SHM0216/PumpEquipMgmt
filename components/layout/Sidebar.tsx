@@ -7,6 +7,7 @@ import {
   Building2,
   Wrench,
   Puzzle,
+  CalendarRange,
   ClipboardList,
   CalendarCheck,
   CheckSquare,
@@ -39,6 +40,7 @@ const SECTIONS: NavSection[] = [
       { href: '/facility', label: '시설물 현황', icon: Building2 },
       { href: '/equipment', label: '설비대장', icon: Wrench },
       { href: '/parts', label: '부품 관리', icon: Puzzle, emphasize: true },
+      { href: '/parts/timeline', label: '부품 타임라인', icon: CalendarRange },
       { href: '/maintenance', label: '유지보수 이력', icon: ClipboardList },
       { href: '/pm', label: '예방정비', icon: CalendarCheck },
       { href: '/inspection', label: '점검일지', icon: CheckSquare },
@@ -54,9 +56,32 @@ const SECTIONS: NavSection[] = [
   },
 ];
 
+/**
+ * 더 긴 경로(`/parts/timeline`)가 `/parts`와 동시에 active되지 않도록
+ * 더 구체적인 매칭이 있는 경우 상위 경로는 정확 일치만 허용한다.
+ */
+const ALL_HREFS = [
+  '/',
+  '/facility',
+  '/equipment',
+  '/parts',
+  '/parts/timeline',
+  '/maintenance',
+  '/pm',
+  '/inspection',
+  '/alerts',
+  '/reports',
+  '/settings',
+];
+
 function isActive(pathname: string, href: string) {
   if (href === '/') return pathname === '/';
-  return pathname === href || pathname.startsWith(href + '/');
+  if (pathname === href) return true;
+  if (!pathname.startsWith(href + '/')) return false;
+  // 더 구체적인 자식 경로가 등록되어 있으면 부모는 활성화하지 않음
+  return !ALL_HREFS.some(
+    (h) => h !== href && h.startsWith(href + '/') && pathname.startsWith(h),
+  );
 }
 
 export function Sidebar() {
