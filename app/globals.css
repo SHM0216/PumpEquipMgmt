@@ -24,6 +24,15 @@
     --input: 0 0% 89.8%;
     --ring: 0 0% 3.9%;
     --radius: 0.5rem;
+
+    /* RPMS 디자인 토큰 */
+    --color-accent: #1e4a7a;
+    --color-accent-2: #2b6cb0;
+    --color-ink: #1a2332;
+    --color-ink-2: #4a5568;
+    --color-line: #e2e6ed;
+    --color-bg: #f5f6f8;
+    --color-sidebar: #0f2035;
   }
 
   .dark {

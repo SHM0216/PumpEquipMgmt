@@ -53,8 +53,9 @@ const config: Config = {
           foreground: 'hsl(var(--muted-foreground))',
         },
         accent: {
-          DEFAULT: 'hsl(var(--accent))',
-          foreground: 'hsl(var(--accent-foreground))',
+          DEFAULT: '#1e4a7a',
+          light: '#2b6cb0',
+          foreground: '#ffffff',
         },
         popover: {
           DEFAULT: 'hsl(var(--popover))',
@@ -64,6 +65,12 @@ const config: Config = {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
         },
+        ink: {
+          DEFAULT: '#1a2332',
+          muted: '#4a5568',
+        },
+        sidebar: '#0f2035',
+        line: '#e2e6ed',
       },
       borderRadius: {
         lg: 'var(--radius)',
